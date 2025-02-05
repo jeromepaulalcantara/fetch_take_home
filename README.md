@@ -27,4 +27,5 @@ The following files should provide answers to the questions for the second part:
 
 The following files should provide answers to the questions for the third part:
 
-**Data Quality Review – Key Findings & Next Steps.msg**     (This email contains the questions and clarifications to be sent to the business stakeholder)
+**Data Quality Review Key Findings & Next Steps.msg**     (This email contains the questions and clarifications to be sent to the business stakeholder)
+**Data Quality Review Key Findings & Next Steps.docx**    (This is the same email in word format)
